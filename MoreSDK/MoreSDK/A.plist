@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ToA</key>
+	<string>/loan/toloanauthorize.action</string>
+	<key>ToTIO</key>
+	<string>/loan/toloanfastpay.action</string>
+	<key>ToT</key>
+	<string>/loan/loan.action</string>
+	<key>ToW</key>
+	<string>/loan/toloanwithdraws.action</string>
+	<key>ToL</key>
+	<string>/loan/toloanrecharge.action</string>
+	<key>ToRB</key>
+	<string>/loan/toloanregisterbind.action</string>
+	<key>ThreeInOneDomain</key>
+	<string>https://www.moneymoremore.com</string>
+	<key>TransferDomain</key>
+	<string>https://transfer.moneymoremore.com</string>
+	<key>WithdrawDomain</key>
+	<string>https://www.moneymoremore.com</string>
+	<key>RechargeDomain</key>
+	<string>https://recharge.moneymoremore.com</string>
+	<key>AuthorizeDomain</key>
+	<string>https://www.moneymoremore.com</string>
+	<key>RegisterDomain</key>
+	<string>https://register.moneymoremore.com</string>
+</dict>
+</plist>
